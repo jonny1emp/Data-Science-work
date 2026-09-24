@@ -1,6 +1,6 @@
 Project: Customer Cohort Analysis template
 Goal: Calculate month-over-month retention rates for new customer cohorts.
-Database: PostgreSQL / Snowflake / BigQuery
+Database: PostgreSQL 
 
 CREATE TABLE raw_orders (
     order_id INTEGER PRIMARY KEY,
